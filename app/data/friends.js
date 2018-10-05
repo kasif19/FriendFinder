@@ -1,0 +1,52 @@
+var friendArray = [
+  {
+    name:"Diane",
+    photo:"http://placehold.it/200x200",
+    scores:[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+  },
+  {
+    name:"Jack",
+    photo:"http://placehold.it/200x200",
+    scores:[
+        3,
+        2,
+        3,
+        3,
+        1,
+        2,
+        4,
+        5,
+        1,
+        5
+      ]
+  },
+  {
+    name:"Bruce",
+    photo:"http://placehold.it/200x200",
+    scores:[
+        2,
+        2,
+        4,
+        3,
+        5,
+        4,
+        3,
+        2,
+        2,
+        3
+      ]
+  }
+];
+
+module.exports = friendArray;
